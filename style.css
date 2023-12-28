@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&family=Roboto:wght@300&display=swap');
+
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+  }
+  .header,
+  .footer {
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 16px;
+  }
+  a {
+    text-decoration: none;
+    color: #595858;
+  }
+  .main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+  }
+  .title {
+    font-size: 100px;
+    font-weight: 700;
+}
+.bleu {
+    color: #4285F4;
+}
+.rouge {
+    color: #DB4437;
+}
+.jaune {
+    color: #F4B400;
+}
+.vert {
+    color: #0F9D58;
+}
+button {
+    padding: 8px 16px;
+}
+
+  .input {
+    width: 33%;
+  }
+  input {
+    width: 100%; 
+    border: 1px solid #eeeeee; 
+    padding: 8px; 
+    border-radius: 20px;
+  }
+  button {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-weight: bold;
+  }
+  button,
+  .footer {
+    background: #eeeeee;
+  }
