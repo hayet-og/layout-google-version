@@ -8,3 +8,4 @@ Résultat:
 
 <img src="google.png" alt="layout google">
 
+lien: https://hayet-og.github.io/layout-google-version/
