@@ -32,9 +32,9 @@ body {
     align-items: center;
     gap: 16px;
   }
-  .title {
+  .logo {
     font-size: 100px;
-    font-weight: 700;
+    font-weight: bold;
 }
 .bleu {
     color: #4285F4;
