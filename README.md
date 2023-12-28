@@ -7,3 +7,4 @@ L'idée est de reproduire cet exemple en y ajoutant des modifications dans le bu
 Résultat:
 
 <img src="google.png" alt="layout google">
+
